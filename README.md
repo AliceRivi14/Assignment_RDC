@@ -7,3 +7,4 @@
  ## 2 Recursive Inverse Dynamics
  
  ## 3 Dynamic Robot Control
+ Simulink
